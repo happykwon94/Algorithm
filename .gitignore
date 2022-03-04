@@ -21,3 +21,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+out/production/00_Algorithm/com/ssafy/README.md
+out/production/00_Algorithm/com/ssafy/.idea/.gitignore
+out/production/00_Algorithm/com/ssafy/.idea/misc.xml
+out/production/00_Algorithm/com/ssafy/.idea/modules.xml
+out/production/00_Algorithm/com/ssafy/.idea/vcs.xml
+00_Algorithm.iml
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+out/production/00_Algorithm/com/ssafy/.gitignore
+out/production/00_Algorithm/com/ssafy/00_Algorithm.iml
